@@ -1,0 +1,30 @@
+.style{
+    width: 550px;
+    height: 100px;
+    background-color: aquamarine;
+    margin: 0 auto;
+    padding: 6px ;
+    
+
+}
+
+.style ul li{
+
+    list-style-type: none;
+    margin: 25px;
+    float: left;
+    padding: auto;
+    
+}
+
+.style ul li a{
+    text-decoration: none;
+    font-size: 20px;
+    text-align: center;
+    cursor: pointer;
+ 
+}
+
+.style ul li a:hover{
+    text-decoration: underline;
+}
